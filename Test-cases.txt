@@ -1,3 +1,7 @@
-This file contains Web App Testing test cases
+as part of my training, I was asked to make a test cases (15-20) on the functionality of Add Customer
+
+Web application : https://demo.guru99.com/telecom/index.html
+
+
 
 
