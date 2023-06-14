@@ -1,9 +1,10 @@
 # Web-App-Documentation
+![Web-Application-Testing](https://github.com/Artem-Mezhuev/Web-App-Documentation/assets/116815884/2e16a339-67f8-47c8-9776-2d4bbf7f3367)
+
 
 This repository presents examples of my creation test cases and bug reports on studying Web App Testing
 
 
-![kisspng-web-development-web-design-web-application-develop-5b256dc69f3574 7498778815291795906521](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2i8d3i8G6d3A0d3_how-to-embed-web-pages-into-your-android-application-web-and-mobile%2F&psig=AOvVaw0pTUOn30xPpqhPdNbOgL-y&ust=1686837067272000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPD2qfPzwv8CFQAAAAAdAAAAABAR)
 
 
 
